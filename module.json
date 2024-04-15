@@ -2,10 +2,13 @@
     "id": "hadook-dnd5e-compendia",
     "title": "Hadook's D&D 5e Compendia",
     "description": "A collection of compendia for D&D 5e content.",
-    "url": "https://github.com/hadook/fvtt-dnd5e-compendia",
-    "manifest": "https://github.com/hadook/fvtt-dnd5e-compendia/releases/latest/download/manifest.json",
-    "download": "https://github.com/hadook/fvtt-dnd5e-compendia/releases/latest/download/module.zip",
-    "version": "0.0.0",
+    
+    "version": "#{VERSION}#",
+
+    "url": "#{URL}#",
+    "manifest": "#{MANIFEST}#",
+    "download": "#{DOWNLOAD}#",
+
     "compatibility": {
         "minimum": "11",
         "verified": "11"
@@ -28,6 +31,7 @@
             "flags": {}
         }
     ],
+
     "packs": [
         {
             "name": "races",
