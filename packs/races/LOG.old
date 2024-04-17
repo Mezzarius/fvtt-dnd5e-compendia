@@ -1,7 +1,23 @@
-2024/04/15-19:35:19.235 30b0 Recovering log #84
-2024/04/15-19:35:19.242 30b0 Delete type=0 #84
-2024/04/15-19:35:19.242 30b0 Delete type=3 #82
-2024/04/15-19:38:09.995 1d78 Level-0 table #89: started
-2024/04/15-19:38:09.995 1d78 Level-0 table #89: 0 bytes OK
-2024/04/15-19:38:09.997 1d78 Delete type=0 #87
-2024/04/15-19:38:10.000 1d78 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2024/04/17-17:34:26.075 1774 Recovering log #117
+2024/04/17-17:34:26.075 1774 Level-0 table #119: started
+2024/04/17-17:34:26.079 1774 Level-0 table #119: 2164 bytes OK
+2024/04/17-17:34:26.081 1774 Delete type=0 #117
+2024/04/17-17:34:26.082 1774 Delete type=3 #116
+2024/04/17-17:34:42.987 2e94 Level-0 table #122: started
+2024/04/17-17:34:42.987 2e94 Level-0 table #122: 0 bytes OK
+2024/04/17-17:34:42.988 2e94 Delete type=0 #120
+2024/04/17-17:34:42.989 2e94 Manual compaction at level-0 from '!folders!1GCaQEaMIbogg5ty' @ 72057594037927935 : 1 .. '!items!ydP3QzCmur55mtY2' @ 0 : 0; will stop at '!items!jMqpeh7kTQ5FFBw2' @ 229 : 1
+2024/04/17-17:34:42.989 2e94 Compacting 1@0 + 0@1 files
+2024/04/17-17:34:42.994 2e94 Generated table #123@0: 1 keys, 197 bytes
+2024/04/17-17:34:42.994 2e94 Compacted 1@0 + 0@1 files => 197 bytes
+2024/04/17-17:34:42.995 2e94 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/17-17:34:42.995 2e94 Delete type=2 #119
+2024/04/17-17:34:42.995 2e94 Manual compaction at level-0 from '!items!jMqpeh7kTQ5FFBw2' @ 229 : 1 .. '!items!ydP3QzCmur55mtY2' @ 0 : 0; will stop at (end)
+2024/04/17-17:34:42.995 2e94 Manual compaction at level-1 from '!folders!1GCaQEaMIbogg5ty' @ 72057594037927935 : 1 .. '!items!ydP3QzCmur55mtY2' @ 0 : 0; will stop at '!items!jMqpeh7kTQ5FFBw2' @ 231 : 0
+2024/04/17-17:34:42.995 2e94 Compacting 1@1 + 1@2 files
+2024/04/17-17:34:42.997 2e94 Generated table #124@1: 23 keys, 24563 bytes
+2024/04/17-17:34:42.997 2e94 Compacted 1@1 + 1@2 files => 24563 bytes
+2024/04/17-17:34:42.998 2e94 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/17-17:34:42.998 2e94 Delete type=2 #109
+2024/04/17-17:34:42.998 2e94 Delete type=2 #123
+2024/04/17-17:34:43.001 2e94 Manual compaction at level-1 from '!items!jMqpeh7kTQ5FFBw2' @ 231 : 0 .. '!items!ydP3QzCmur55mtY2' @ 0 : 0; will stop at (end)
