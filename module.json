@@ -3,9 +3,9 @@
     "title": "Hadook's D&D 5e Compendia",
     "description": "A collection of compendia for D&D 5e content.",
     
-    "version": "#{VERSION}#",
+    "version": "1.0",
 
-    "url": "#{URL}#",
+    "url": "https://github.com/Mezzarius/fvtt-dnd5e-compendia/tree/main",
     "manifest": "https://raw.githubusercontent.com/Mezzarius/fvtt-dnd5e-compendia/main/module.json",
     "download": "https://github.com/Mezzarius/fvtt-dnd5e-compendia.git",
 
