@@ -6,8 +6,8 @@
     "version": "#{VERSION}#",
 
     "url": "#{URL}#",
-    "manifest": "#{MANIFEST}#",
-    "download": "#{DOWNLOAD}#",
+    "manifest": "https://raw.githubusercontent.com/Mezzarius/fvtt-dnd5e-compendia/main/module.json",
+    "download": "https://raw.githubusercontent.com/Mezzarius/fvtt-dnd5e-compendia/main/hadook-dnd5e-compendia.zip",
 
     "compatibility": {
         "minimum": "11",
