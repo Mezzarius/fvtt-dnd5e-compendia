@@ -7,7 +7,7 @@
 
     "url": "#{URL}#",
     "manifest": "https://raw.githubusercontent.com/Mezzarius/fvtt-dnd5e-compendia/main/module.json",
-    "download": "https://raw.githubusercontent.com/Mezzarius/fvtt-dnd5e-compendia/main/hadook-dnd5e-compendia.zip",
+    "download": "https://github.com/Mezzarius/fvtt-dnd5e-compendia.git",
 
     "compatibility": {
         "minimum": "11",
